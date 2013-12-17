@@ -28,8 +28,8 @@ Scope limits:
 Notes on the solution:
 ----------------------
 
-Here are the RESTful URLs for accomplishing the goals of the app. Only JSON responses are 
-available.
+Use 'mvn tomcat7:run-war' to bring up the app. Here are the RESTful URLs for accomplishing the goals of the app.
+Only JSON responses are available.
 
  - List library branches: GET http://localhost:8080/library/branch
  - List books at  a given branch: GET http://localhost:8080/library/branch/{id}/books
