@@ -1,0 +1,1 @@
+<%@page contentType="text/plain"%>{ "error": "Resource not found" }
